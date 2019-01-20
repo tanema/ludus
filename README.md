@@ -32,7 +32,6 @@ Use "ludus [command] --help" for more information about a command.
 
 ## Todo
 - [ ] lua bytecode compile
-- [ ] plist change copywrite
 - [ ] App Icons
     - [ ] osx plist change
 - [ ] Better logging/output

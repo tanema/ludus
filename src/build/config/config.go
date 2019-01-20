@@ -16,6 +16,7 @@ var defaultExclude = []string{
 // Config descripts a wrp config
 type Config struct {
 	Title           string   `mapstructure:"title"`
+	OSXIcon         string   `mapstructure:"macos_icon"`
 	LoveVersion     string   `mapstructure:"love_version"`
 	Version         string   `mapstructure:"version"`
 	Author          string   `mapstructure:"author"`
